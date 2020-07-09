@@ -1,0 +1,95 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    height: 600px;
+    background-color: #F0FFF0;
+    margin-bottom: 50px;
+}
+
+.light-bg{
+    background-color: #F0FFF0;
+}
+.sign-in-button{
+    border: none;
+    margin: 5px;
+    padding: 5px 30px;
+    border-radius: 40px;
+    color: white;
+    background-color: #21B573;
+}
+.navbar-nav li{
+    justify-content: space-between;
+    margin: 5px;
+    border: none;
+}
+.container{
+    padding-bottom: 100px;
+}
+.orange-text{
+    color: red;
+}
+.heading-text{
+    font-weight: 700;
+}
+.green-text{
+    color: #21B573;
+}
+.icon{
+    margin: 10px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.icons-section{
+    margin-top: 150px;
+}
+
+.icon:hover{
+    border-radius: 16px;
+    box-shadow: 0 0 10px lightgray;
+}
+.online-course-text{
+    font-weight: 700;
+    padding-bottom: 2rem;
+}
+.card{
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 10px lightgray;
+}
+.card img{
+    padding: 1rem;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.Testimonial-text{
+    padding-bottom: 50px;
+}
+.copyright-text{
+    padding-top: 50px;
+}
+footer{
+    color: white;
+    background-color: #282531;
+}
+footer p{
+    font-weight: 200;
+    font-size: small;
+}
+footer .container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+button{
+    border: none;
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 50px;
+    color: white;
+    background-color: #21B573;
+}
+.input-form{
+    padding-top: 50px;
+}
